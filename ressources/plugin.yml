@@ -1,0 +1,10 @@
+name: SdchachazeArena
+version: 1.0.0
+author: DamienHubleur
+main: ch.dams333.arena.Arena
+commands:
+  arene:
+    permission: sdchachaze.arene
+    description: Permet de gere l arene
+  pvp:
+    permission: sdchachaze.pvp
